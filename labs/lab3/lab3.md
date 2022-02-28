@@ -7,14 +7,14 @@ semester: spring 2022
 # Lab 3 using Ubuntu 
 
 # Question 1
-## Date
+
 ![question 1](q1.1.png)
 
-## shortcut
+
 ![question 1.2](q1.2.png)
 
 # Question 2
-
+![question 2](q2.1.png)
 
 # Question 3 
 | Program purpose     | Package Name |      Version       | Description |
